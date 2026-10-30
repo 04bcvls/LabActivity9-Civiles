@@ -1,4 +1,4 @@
-# LLab Activity 9 - Barangay Bakuna Tracker: Blade, Tailwind & Vite
+# Lab Activity 9 - Barangay Bakuna Tracker: Blade, Tailwind & Vite
 
 **Course:** 4-334 Full-Stack Web Development  
 **Student Name:** Christian Mari Civiles  
